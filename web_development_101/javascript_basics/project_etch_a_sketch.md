@@ -45,6 +45,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+* [Sasha Cindemir's Solution](https://github.com/scindemir/sketchygrid) - [View in Browser](https://scindemir.github.io/sketchygrid/)
 * [Huy Pham's Solution](https://github.com/huypham048/etch-A-sketch) - [View in Browser](https://huypham048.github.io/etch-A-sketch/)
 * [Benimanjaro's Solution](https://github.com/beniamanjaro/PROJECT-ETCH-A-SKETCH) - [View in Browser](https://beniamanjaro.github.io/PROJECT-ETCH-A-SKETCH/)
 * [Neil's Solution](https://github.com/neilkurien/etch-a-sketch) - [View in Browser](http://neilkurien.github.io/etch-a-sketch)
